@@ -1,5 +1,6 @@
 {
   "item.lithium.lithium_ingot": "Lithium Ingot",
   "block.lithium.lithium_ore": "Lithium Ore",
-  "item.lithium.raw_lithium": "Raw Lithium"
+  "item.lithium.raw_lithium": "Raw Lithium",
+  "item.lithium.lithium_nugget": "Lithium Nugget"
 }
