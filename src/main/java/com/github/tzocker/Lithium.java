@@ -11,5 +11,6 @@ public class Lithium implements ModInitializer {
 
 		Items.init();
 		Blocks.init();
+		OreGen.init();
 	}
 }
