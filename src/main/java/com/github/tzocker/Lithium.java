@@ -7,7 +7,7 @@ import net.fabricmc.api.ModInitializer;
 public class Lithium implements ModInitializer {
 	@Override
 	public void onInitialize() {
-		System.out.println("Starting Lithium...");
+		System.out.println("Starting Lithium mod...");
 
 		Items.init();
 		Blocks.init();

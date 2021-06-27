@@ -22,7 +22,6 @@ public class OreGen {
                     Blocks.LITHIUM_ORE.getDefaultState(),
                     9)) // Vein size
             .range(new RangeDecoratorConfig(
-                    // You can also use one of the other height providers if you don't want a uniform distribution
                     UniformHeightProvider.create(YOffset.aboveBottom(0), YOffset.fixed(63)))) // Inclusive min and max height
             .spreadHorizontally()
             .repeat(20); // Number of veins per chunk

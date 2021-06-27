@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "lithium:lithium_ore"
+          "name": "lithium:raw_lithium"
         }
       ],
       "conditions": [
