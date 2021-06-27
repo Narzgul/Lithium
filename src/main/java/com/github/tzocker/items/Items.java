@@ -1,4 +1,4 @@
-package com.github.tzocker.common;
+package com.github.tzocker.items;
 
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
