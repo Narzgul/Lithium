@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "N  ",
+    "L  ",
+    "I  "
+  ],
+  "key": {
+    "L": {
+      "item": "lithium:lithium_ingot"
+    },
+    "N": {
+      "item": "lithium:lithium_nugget"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "lithium:battery"
+  }
+}

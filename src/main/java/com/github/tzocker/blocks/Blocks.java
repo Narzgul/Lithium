@@ -17,6 +17,6 @@ public class Blocks {
     public static void init() {
         Registry.register(Registry.BLOCK, new Identifier("lithium", "lithium_ore"), LITHIUM_ORE);
         Registry.register(Registry.ITEM, new Identifier("lithium", "lithium_ore"),
-                new BlockItem(LITHIUM_ORE, new Item.Settings().group(ItemGroup.MISC)));
+                new BlockItem(LITHIUM_ORE, new Item.Settings().group(ItemGroup.BUILDING_BLOCKS)));
     }
 }
