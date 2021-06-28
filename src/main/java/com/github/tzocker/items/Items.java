@@ -17,6 +17,6 @@ public class Items {
     public static void init() {
         register("lithium_ingot", LITHIUM_INGOT);
         register("raw_lithium", RAW_LITHIUM);
-        register("lithium_ingot", LITHIUM_NUGGET);
+        register("lithium_nugget", LITHIUM_NUGGET);
     }
 }

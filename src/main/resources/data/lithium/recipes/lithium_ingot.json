@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item": "lithium:lithium_nugget"},
+    {"item": "lithium:lithium_nugget"},
+    {"item": "lithium:lithium_nugget"},
+    {"item": "lithium:lithium_nugget"},
+    {"item": "lithium:lithium_nugget"},
+    {"item": "lithium:lithium_nugget"},
+    {"item": "lithium:lithium_nugget"},
+    {"item": "lithium:lithium_nugget"},
+    {"item": "lithium:lithium_nugget"}
+  ],
+  "result": {
+    "item": "lithium:lithium_ingot"
+  }
+}
