@@ -1,2 +1,2 @@
 # Lithium Mod
-Adds Lithium Ore and Items
+A fabric mod for Minecraft that adds Lithium Ore and Items
